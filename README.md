@@ -31,7 +31,9 @@ in [Fall/Spring] 2025.
 ![Schematic](schematics/schematic.png)
 
 ## Finished Circuit
-![Finished circuit](images/circuit.jpg)
+<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/63d03ca0-8f2d-4ae9-8388-920704a2fc56" />
+
+
 
 ## What I learned
 Designing the active low-pass filters showed me how the cutoff frequency

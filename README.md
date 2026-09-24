@@ -33,6 +33,9 @@ in [Fall/Spring] 2025.
 ## Finished Circuit
 <img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/63d03ca0-8f2d-4ae9-8388-920704a2fc56" />
 
+<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/029942de-8994-4c67-af4d-d4133c74631c" />
+
+
 
 
 ## What I learned

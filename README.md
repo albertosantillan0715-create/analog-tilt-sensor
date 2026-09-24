@@ -28,7 +28,7 @@ in [Fall/Spring] 2025.
 | Resistors and capacitors (filter and biasing) | as used |
 
 ## Schematic
-![Schematic](schematics/schematic.png)
+![Schematic](Images/Schematic.jpeg)
 
 ## Finished Circuit
 <img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/63d03ca0-8f2d-4ae9-8388-920704a2fc56" />
